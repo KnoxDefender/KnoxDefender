@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @KnoxDefender
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...Coding
-- 💞️ I’m looking to collaborate on ...Coding
-- 📫 How to reach me ...Yell My name at the top of your lungs
+- 👀 I’m interested in ...code
+- 🌱 I’m currently learning ...code 
+- 💞️ I’m looking to collaborate on ...Code
+- 📫 How to reach me ...Email me at knoxdefenderbender@gmail.com
 - 😄 Pronouns: ... this should say Gender...no need for pronouns we learned those in kindergarden 
-- ⚡ Fun fact: ...i was born male and ill always be a male
+- ⚡ Fun fact: ...Im Streight 
 
 
 <!---
